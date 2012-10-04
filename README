@@ -1,12 +1,8 @@
 
-Deutsches Sprachpaket für ExpressionEngine 2.5.1, 
-inkl. der CodeIgniter Sprachfiles. 
+Deutsches Sprachpaket für ExpressionEngine 2.5.3
+inkl. der CodeIgniter Sprachfiles 
 
-Letzte Korrekturen: 05.06.2012
-
-Zusätzlich liegt die jQuery-Datei dataTables.js bei, die übersetzte 
-Teiltexte beinhaltet. Die Auflistung der Beiträge im ControlPanel
-hat damit am Seitenende eine deutsche Pagination.
+Letzte Korrekturen: 27.09.2012
 
 Inhalt vom Verzeichnis /system in das Verzeichnis /system Ihrer 
 Installation kopieren.
@@ -18,7 +14,7 @@ Die ExpressionEngine-Sprachdateien liegen in
           /language
                 /deutsch
 
-Die Codeigniter Sprach-Dateien liegen in
+Die Codeigniter Sprachdateien liegen in
 
 /system
 	/codeigniter
@@ -27,13 +23,17 @@ Die Codeigniter Sprach-Dateien liegen in
 		         /deutsch
 
 
-Den Ordner /themes in Ihre Installation kopieren. Die Datei
-dataTables.js wird überschrieben. Die Datei liegt in
 
-/themes
-    /javascript
-        /compressed
-            /jquery
-                /plugins
-                    
+Übersetzer der EE-Sprachdateien seit 2004:
+
+Werner Gusset
+Octave 2 GmbH
+Ringstrasse 8
+CH-2560 Nidau /Biel
+Schweiz
+
+Bitte Fehler und Anregungen zur Verbesserung per E-Mail an
+
+gusset@octave2.ch 
+
  
